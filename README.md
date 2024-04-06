@@ -35,4 +35,5 @@ I downloaded raw data from the internet and named it as my imaginary online food
 ## Directory Structure
 - `data/`: Contains the raw data
 - `reports/`: Contains generated reports and visualizations
+- `demo video/`: Contains a short video of report
 
