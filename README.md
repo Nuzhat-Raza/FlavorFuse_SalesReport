@@ -25,6 +25,8 @@ I downloaded raw data from the internet and named it as my imaginary online food
 
 - Check out my report here 👉
   https://app.powerbi.com/groups/me/reports/e7ca51dd-9641-47e6-9451-5ca24d458b91/ReportSection?experience=power-bi
+  
+- Demo video of the report -- https://www.youtube.com/watch?v=0sL5JmNigGw
 
 
 ## Tools Used
