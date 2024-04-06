@@ -20,6 +20,7 @@ I downloaded raw data from the internet and named it as my imaginary online food
 ![Screenshot 2024-04-06 131040](https://github.com/Nuzhat-Raza/FlavorFuse_SalesReport/assets/140976114/31dee3ef-958c-4409-bd73-7a83cc5c610d)
 
 ## Visualisation
+![Visual_FF](https://github.com/Nuzhat-Raza/FlavorFuse_SalesReport/assets/140976114/a01bc52a-521c-4333-97a6-d114ee47ad80)
 
 
 - Check out my report here 👉
@@ -32,6 +33,6 @@ I downloaded raw data from the internet and named it as my imaginary online food
   
 
 ## Directory Structure
-- `data/`: Contains the raw and cleaned data files
+- `data/`: Contains the raw data
 - `reports/`: Contains generated reports and visualizations
 
